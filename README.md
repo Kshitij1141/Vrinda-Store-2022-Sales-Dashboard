@@ -1,9 +1,16 @@
 # Vrinda-Store-2022-Sales-Dashboard
 
-![Tool](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20EDA-blue?style=flat-square)
-![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Dashboard-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
+![Tool](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20EDA-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Dashboard-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=check-circle&logoColor=white)
+![SQL](https://img.shields.io/badge/Skill-SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Database](https://img.shields.io/badge/Concept-Database-4CAF50?style=for-the-badge&logo=database&logoColor=white)
+![Queries](https://img.shields.io/badge/Skill-Query%20Writing-F39C12?style=for-the-badge&logo=sql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-6f42c1?style=for-the-badge&logo=tableau&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Skill-Problem%20Solving-ff4500?style=for-the-badge&logo=leanpub&logoColor=white)
+![Logical Thinking](https://img.shields.io/badge/Skill-Logical%20Thinking-009688?style=for-the-badge&logo=brain&logoColor=white)
 
 Annual Sales Dashboard for Vrinda Store (2022) in Excel. Interactive dashboard visualizes sales trends, customer demographics, and operational metrics. Enables data-driven decisions with dynamic charts and filters. Includes data cleaning, analysis, and recommendations for growth and efficiency.
 
