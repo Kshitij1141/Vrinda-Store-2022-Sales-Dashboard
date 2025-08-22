@@ -1,4 +1,10 @@
 # Vrinda-Store-2022-Sales-Dashboard
+
+![Tool](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20EDA-blue?style=flat-square)
+![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Dashboard-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 Annual Sales Dashboard for Vrinda Store (2022) in Excel. Interactive dashboard visualizes sales trends, customer demographics, and operational metrics. Enables data-driven decisions with dynamic charts and filters. Includes data cleaning, analysis, and recommendations for growth and efficiency.
 
 # Vrinda Store: 2022 Annual Sales Dashboard Report
